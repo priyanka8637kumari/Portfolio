@@ -1,6 +1,6 @@
 import React from "react";
 import styles from "./Projects.module.css";
-import projects from "../../Data/projects";
+import projects from "../../data/projects";
 import { ProjectCard } from "./ProjectCard";
 
 export const Projects = () => {

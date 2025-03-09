@@ -7,7 +7,11 @@ export const About = () => {
     <section className={styles.container} id="about">
       <h2 className={styles.title}>About Me</h2>
       <div className={styles.content}>
-        <img src={getImageUrl("about/aboutImage.png")} alt="aboutImage"  className={styles.aboutImage}/>
+        <img
+          src={getImageUrl("about/aboutImage.png")}
+          alt="aboutImage"
+          className={styles.aboutImage}
+        />
         <ul className={styles.aboutItems}>
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/cursorIcon.png")} alt="cursorImage" />
@@ -24,8 +28,8 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               {/* <h3>BackEnd Developer</h3> */}
               <p>
-                I am currently exploring Node.js to
-                become a full-stack developer.
+                I am currently exploring Node.js to become a full-stack
+                developer.
               </p>
             </div>
           </li>
@@ -34,7 +38,9 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               {/* <h3>UI Designer</h3> */}
               <p>
-              My goal is to become a proficient frontend developer, constantly learning and improving. I love working on innovative projects that make an impact. Let&apos;s build something amazing together
+                My goal is to become a proficient frontend developer, constantly
+                learning and improving. I love working on innovative projects
+                that make an impact. Let&apos;s build something amazing together!
               </p>
             </div>
           </li>
