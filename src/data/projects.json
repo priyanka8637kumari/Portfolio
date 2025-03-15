@@ -1,12 +1,13 @@
 [
   {
-    "title": "HealthCare App",
-    "imageSrc": "projects/healthcare.png",
-    "description": "This project is a solution to unify all healthcare departments.",
-    "skills": ["React", "module.css", "JSX"],
-    "demo": "https://medihubapp08.netlify.app/",
-    "source": "https://github.com/priyanka8637kumari/Healthcare_App"
+    "title": "Cocktail Kungen app",
+    "imageSrc": "projects/Recipe.png",
+    "description": "This project allows users to explore a collection of cocktail recipes by categories.",
+    "skills": ["React", "JSX", "CSS"],
+    "demo": "https://cocktail-kungen.netlify.app/",
+    "source": "https://www.github.com"
   },
+  
   {
     "title": "Quiz Game",
     "imageSrc": "projects/QuizProject.png",
@@ -15,14 +16,16 @@
     "demo": "https://computer-quiz-game.netlify.app/",
     "source": "https://github.com/priyanka8637kumari/Quiz-Game"
   },
-  
   {
-    "title": "Cocktail Kungen app",
-    "imageSrc": "projects/Recipe.png",
-    "description": "This project allows users to explore a collection of cocktail recipes by categories.",
-    "skills": ["React", "JSX", "CSS"],
-    "demo": "https://cocktail-kungen.netlify.app/",
-    "source": "https://www.github.com"
+    "title": "HealthCare App",
+    "imageSrc": "projects/healthcare.png",
+    "description": "This project is a solution to unify all healthcare departments.",
+    "skills": ["React", "module.css", "JSX"],
+    "demo": "https://medihubapp08.netlify.app/",
+    "source": "https://github.com/priyanka8637kumari/Healthcare_App"
   }
+
+  
+ 
  
 ]
