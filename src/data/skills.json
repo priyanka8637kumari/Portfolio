@@ -30,11 +30,11 @@
     "imageSrc": "skills/figma.png"
   },
   {
-    "title": "npm",
-    "imageSrc": "skills/npm.png"
+    "title": "node.js",
+    "imageSrc": "skills/nodejs.png"
   },
   {
-    "title": "Webpack",
-    "imageSrc": "skills/webpack.png"
+    "title": "mongoDB",
+    "imageSrc": "skills/mongodb.png"
   }
 ]
