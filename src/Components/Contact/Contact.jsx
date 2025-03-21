@@ -19,12 +19,12 @@ export const Contact = () => {
 
         <li className={styles.link}>
             <img src={getImageUrl("contact/linkedinIcon.png")} alt="linkedin icon" />
-            <a href="https://www.linkedin.com/in/priyanka-kumari-995901274//" target="_blank">linkedin.com/in/priyanka-kumari-995901274/</a>
+            <a href="https://www.linkedin.com/in/priyanka-kumari-995901274//" target="_blank">linkedin.com/in/priyanka-kumari/</a>
         </li>
 
         <li className={styles.link}>
             <img src={getImageUrl("contact/githubIcon.png")} alt="github icon" />
-            <a href="https://github.com/priyanka8637kumari" target="_blank">https://github.com/priyanka8637kumari</a>
+            <a href="https://github.com/priyanka8637kumari" target="_blank">github.com/priyanka8637kumari</a>
         </li>
       </ul>
     </footer>

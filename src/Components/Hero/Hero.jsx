@@ -8,17 +8,18 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I&apos;m Priyanka! 👋 </h1>
         <p className={styles.description}>
-          A Frontend Developer Student at <span className={styles.highlight}>Hyper Island, Stockholm</span>.
-          Building user-friendly &
-          interactive web experiences with HTML, JavaScript, React and Tailwind
-          CSS. 🚀
+          A Frontend Developer Student at{" "}
+          <span className={styles.highlight}>Hyper Island, Stockholm</span>.
+          Building user-friendly & interactive web experiences with HTML,
+          JavaScript, React and Tailwind CSS. 🚀
         </p>
+        <div className={styles.heroButtons}>
         <a href="mailto:prisri0801@gmail.com" className={styles.contactBtn}>
           Contact Me
         </a>
-        {/* <a href="images/Priyanka Kumari-CVSE.pdf" className={styles.contactBtn}
-              >Download CV</a
-            > */}
+        <a href={getImageUrl("hero/Resume-Priyanka.pdf")} download className={styles.contactBtn}>
+          Download CV
+        </a></div>
       </div>
       <img
         src={getImageUrl("hero/priyanka.png")}
