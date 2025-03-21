@@ -19,7 +19,7 @@ export const Contact = () => {
 
         <li className={styles.link}>
             <img src={getImageUrl("contact/linkedinIcon.png")} alt="linkedin icon" />
-            <a href="mailto:prisri0801@gmail.com">prisri0801@gmail.com</a>
+            <a href="https://www.linkedin.com/in/priyanka-kumari-995901274//">linkedin.com/in/priyanka-kumari-995901274/</a>
         </li>
 
         <li className={styles.link}>
