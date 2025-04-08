@@ -7,7 +7,7 @@ A personal portfolio website built with **React** and **Vite** to showcase my pr
 - ⚛️ React
 - ⚡ Vite
 - 📁 React Router
-- 📬 EmailJS / Formspree (for contact form)
+- 📬 EmailJS
 
 ## 🌐 Live Demo
 
@@ -19,9 +19,9 @@ A personal portfolio website built with **React** and **Vite** to showcase my pr
 1. **Clone the repo**
 
 ```bash
-git clone
-change the directory
-install dependency: npm install
+git clone https://github.com/priyanka8637kumari/Portfolio.git
+cd Portfolio 
+npm install
 start the dev server: npm run dev
 
 
