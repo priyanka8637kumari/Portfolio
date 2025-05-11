@@ -2,8 +2,8 @@
   {
     "title": "Cocktail Kungen app",
     "imageSrc": "projects/Recipe.png",
-    "description": "This project allows users to explore a collection of cocktail recipes by categories.",
-    "skills": ["React", "JSX", "CSS"],
+    "description": "This project allows users to explore a collection of cocktail recipes.",
+    "skills": ["React", "JSX", "CSS", "JavaScript"],
     "demo": "https://cocktail-kungen.netlify.app/",
     "source": "https://www.github.com"
   },
@@ -12,7 +12,7 @@
     "title": "MoneyMate App",
     "imageSrc": "projects/Moneymate.png",
     "description": "This project is a interactive and effortless expense tracking.",
-    "skills": ["React", "Tailwind", "MongoDB", "Express", "Node.js"],
+    "skills": ["React", "Tailwind", "MongoDB", "Express"],
     "demo": "https://moneymate4u.netlify.app/",
     "source": "https://github.com/priyanka8637kumari/Expense-Tracker-MERN-"
   },
@@ -20,7 +20,7 @@
     "title": "Todo App",
     "imageSrc": "projects/TodoApp-Redux.png",
     "description": "This project is a simple todo app using Redux toolkit.",
-    "skills": ["React", "Redux", "Tailwind"],
+    "skills": ["React", "Redux", "Tailwind", "JavaScript"],
     "demo": "https://todosreduxtoolkit.netlify.app/",
     "source": "https://github.com/priyanka8637kumari/Todo-App-with-Redux-Toolkit"
   }

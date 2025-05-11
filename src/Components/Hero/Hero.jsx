@@ -10,8 +10,7 @@ export const Hero = () => {
         <p className={styles.description}>
           A Frontend Developer Student at{" "}
           <span className={styles.highlight}>Hyper Island, Stockholm</span>.
-          Building user-friendly & interactive web experiences with HTML,
-          JavaScript, React and Tailwind CSS. 🚀
+          Crafting pixels with purpose and coding dreams into reality.
         </p>
         <div className={styles.heroButtons}>
         <a href="mailto:prisri0801@gmail.com" className={styles.contactBtn}>

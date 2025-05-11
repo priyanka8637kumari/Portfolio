@@ -18,8 +18,8 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>FrontEnd Developer</h3>
               <p>
-                Passionate about creating beautiful and functional websites
-                using React, JavaScript, HTML, CSS, and Tailwind CSS.
+                Specializing in building responsive, user-friendly applications
+                using the MERN stack (MongoDB, Express.js, React, Node.js)
               </p>
             </div>
           </li>
@@ -28,8 +28,8 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               {/* <h3>BackEnd Developer</h3> */}
               <p>
-                I am currently exploring Node.js to become a full-stack
-                developer.
+                Skilled in Tailwind CSS, Vite, GitHub, and Strapi, with a strong
+                focus on clean UI and seamless user experience.
               </p>
             </div>
           </li>
@@ -38,9 +38,8 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               {/* <h3>UI Designer</h3> */}
               <p>
-                My goal is to become a proficient frontend developer, constantly
-                learning and improving. I love working on innovative projects
-                that make an impact. Let&apos;s build something amazing together!
+                Passionate about solving real-world problems through code and
+                continuously improving performance and design.
               </p>
             </div>
           </li>
