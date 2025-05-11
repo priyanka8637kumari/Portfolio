@@ -8,8 +8,8 @@
     "imageSrc": "skills/css.png"
   },
   {
-    "title": "JavaScript",
-    "imageSrc": "skills/javascript.png"
+    "title": "TypeScript",
+    "imageSrc": "skills/typescript.png"
   },
   {
     "title": "React",
@@ -40,5 +40,9 @@
   {
     "title": "mongoDB",
     "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "Strapi",
+    "imageSrc": "skills/strapi.png"
   }
 ]

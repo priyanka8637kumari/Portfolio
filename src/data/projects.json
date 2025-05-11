@@ -9,20 +9,20 @@
   },
   
   {
-    "title": "Quiz Game",
-    "imageSrc": "projects/QuizProject.png",
-    "description": "This project is a fun and interactive quiz game with multipe choice.",
-    "skills": ["HTML", "CSS", "JavaScript", "API"],
-    "demo": "https://computer-quiz-game.netlify.app/",
-    "source": "https://github.com/priyanka8637kumari/Quiz-Game"
+    "title": "MoneyMate App",
+    "imageSrc": "projects/Moneymate.png",
+    "description": "This project is a interactive and effortless expense tracking.",
+    "skills": ["React", "Tailwind", "MongoDB", "Express", "Node.js"],
+    "demo": "https://moneymate4u.netlify.app/",
+    "source": "https://github.com/priyanka8637kumari/Expense-Tracker-MERN-"
   },
   {
-    "title": "HealthCare App",
-    "imageSrc": "projects/healthcare.png",
-    "description": "This project is a solution to unify all healthcare departments.",
-    "skills": ["React", "module.css", "JSX"],
-    "demo": "https://medihubapp08.netlify.app/",
-    "source": "https://github.com/priyanka8637kumari/Healthcare_App"
+    "title": "Todo App",
+    "imageSrc": "projects/TodoApp-Redux.png",
+    "description": "This project is a simple todo app using Redux toolkit.",
+    "skills": ["React", "Redux", "Tailwind"],
+    "demo": "https://todosreduxtoolkit.netlify.app/",
+    "source": "https://github.com/priyanka8637kumari/Todo-App-with-Redux-Toolkit"
   }
 
   
